@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5kcHPzolQPA_course_id",
+  "title": "စာထည့်ရန် နေရာအကွက် အပြာ ၁၆ ၉",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "ခေါင်းစဉ်မရှိသေးသော အခန်း"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R5JT39OyCj",
+      "title": "ခေါင်းစဉ်မရှိသေးသော ဆလိုက်",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
